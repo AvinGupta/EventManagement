@@ -7,7 +7,7 @@ Quick start
 
 1. Clone repo  like this::
 
-      git clone  https://github.com/dimkoug/eventmanagement.git
+   
 
 2. Create a virtualenv::
 
